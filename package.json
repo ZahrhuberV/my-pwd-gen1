@@ -1,0 +1,22 @@
+{
+  "name": "mypwdgen",
+  "version": "0.0.1",
+  "description": "My password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZahrhuberV/my-pwd-gen1.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Valentin Zahrhuber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZahrhuberV/my-pwd-gen1/issues"
+  },
+  "homepage": "https://github.com/ZahrhuberV/my-pwd-gen1#readme"
+}
